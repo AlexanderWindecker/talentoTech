@@ -21,7 +21,7 @@ Este proyecto es una aplicación de gestión de productos que permite a los usua
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/AlexanderWindecker/talentoTech.git
    cd tu_repositorio
    ```
 
