@@ -22,7 +22,6 @@ Este proyecto es una aplicación de gestión de productos que permite a los usua
 
    ```bash
    git clone https://github.com/AlexanderWindecker/talentoTech.git
-   cd tu_repositorio
    ```
 
 ## Instalacion de dependencias
